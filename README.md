@@ -1,2 +1,2 @@
-# Analyzing fashion_product_performance - SQL
+# Analyzing fashion product performance using SQL
 
